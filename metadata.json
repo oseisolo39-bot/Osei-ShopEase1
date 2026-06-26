@@ -1,0 +1,6 @@
+{
+  "name": "Osei shopEase",
+  "description": "A modern shipping web app with a clean, professional design, featuring product search, categories, favorites, and a shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
